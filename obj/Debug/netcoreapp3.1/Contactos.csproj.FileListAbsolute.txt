@@ -13,8 +13,6 @@ E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\Contactos.AssemblyInfo
 E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\Contactos.csproj.CoreCompileInputs.cache
 E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\Contactos.MvcApplicationPartsAssemblyInfo.cache
 E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\Contactos.RazorTargetAssemblyInfo.cache
-E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\staticwebassets\Contactos.StaticWebAssets.Manifest.cache
-E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\staticwebassets\Contactos.StaticWebAssets.xml
 E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\Contactos.dll
 E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\Contactos.pdb
 E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\Contactos.genruntimeconfig.cache
@@ -52,3 +50,11 @@ E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netco
 E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\Apps\NetCore\Curso01\Contactos\obj\Debug\netcoreapp3.1\Contactos.csproj.CopyComplete
 E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Apps\NetCore\Curso01\Contactos\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

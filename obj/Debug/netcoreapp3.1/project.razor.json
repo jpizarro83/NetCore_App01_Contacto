@@ -20518,7 +20518,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "Contactos",
+  "RootNamespace": null,
   "Documents": [],
   "SerializationFormat": "0.2"
 }

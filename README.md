@@ -21,3 +21,6 @@ dotnet tool install --global dotnet-ef
 
 7) ejecutar la migración:
 	dotnet ef database update
+
+8) Restaurar librerias:
+dotnet restore contactos.csproj
